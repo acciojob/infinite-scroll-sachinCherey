@@ -1,5 +1,5 @@
 //your code here!
-document.addEventListener('DOMContentLoaded',function()){
+
 const itemList=document.getElementById('infi-list');
 function addItem() {
     const newItem = document.createElement("li");
